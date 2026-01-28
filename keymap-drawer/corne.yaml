@@ -18,7 +18,7 @@ layers:
   - S
   - D
   - F
-  - G
+  - '&studio_unlock'
   - H
   - J
   - K
